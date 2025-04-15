@@ -1,10 +1,10 @@
-2025-04-14 23:59:57.326746 - Received CBT.V508.FILE148.PDS from FILE148.XMI 
-2025-04-14 23:59:57.328309 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$$#DATE
-2025-04-14 23:59:57.328513 - Found $$DOC.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$DOC
-2025-04-14 23:59:57.328747 - Found @FILE148.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/@FILE148
-2025-04-14 23:59:57.329074 - Found FILE001.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE001
-2025-04-14 23:59:57.330041 - Found FILE002.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE002
-2025-04-14 23:59:57.330735 - Found FILE003.bin (application/octet-stream) in CBT.V508.FILE148.PDS, moved to PDS/FILE003
-2025-04-14 23:59:57.330909 - Found FILE004.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE004
-2025-04-14 23:59:57.331576 - Found FILE005.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE005
-2025-04-14 23:59:57.331888 - Found FILE006.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE006
+2025-04-15 18:49:13.254979 - Received CBT.V508.FILE148.PDS from FILE148.XMI 
+2025-04-15 18:49:13.256157 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$$#DATE
+2025-04-15 18:49:13.256467 - Found $$DOC.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/$$DOC
+2025-04-15 18:49:13.256521 - Found @FILE148.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/@FILE148
+2025-04-15 18:49:13.256800 - Found FILE001.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE001
+2025-04-15 18:49:13.257731 - Found FILE002.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE002
+2025-04-15 18:49:13.258531 - Found FILE003.bin (application/octet-stream) in CBT.V508.FILE148.PDS, moved to PDS/FILE003
+2025-04-15 18:49:13.258742 - Found FILE004.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE004
+2025-04-15 18:49:13.259449 - Found FILE005.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE005
+2025-04-15 18:49:13.259801 - Found FILE006.txt (text/plain) in CBT.V508.FILE148.PDS, moved to PDS/FILE006
